@@ -4,7 +4,7 @@ Chrome extension to copy selected text from webpage without allowing the page
 to inject anything to the clipboard. See <https://security.love/Pastejacking/>
 and <https://github.com/dxa4481/Pastejacking> for more context.
 
-Screenshot: <http://i.imgur.com/IvvOWUY.png>
+![Screenshot](http://i.imgur.com/IvvOWUY.png)
 
 Made with disgust and 5 minutes during my lunch break.
 
