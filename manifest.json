@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "Real Copy",
+  "description": "copy selected text on webpage without allowing advertisement injection and pastejacking",
+  "version": "0.0.1",
+
+  "browser_action": {
+    "default_icon": "static/copy-icon.png",
+    "default_popup": "static/popup.html"
+  },
+  "permissions": [
+    "activeTab",
+	"clipboardWrite",
+	"http://*/",
+	"https://*/"
+  ]
+}
